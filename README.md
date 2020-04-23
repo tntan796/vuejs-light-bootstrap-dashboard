@@ -1,4 +1,4 @@
-Vue Light Bootstrap Dashboard version license
+#Vue Light Bootstrap Dashboard version license
 Admin dashboard based on light bootstrap dashboard UI template + vue-router
 
 This project is a vue version of Light bootstrap dashboard designed for vue js. The dashboard includes Bootstrap 4, vue-router, chartist, google-maps and several other plugins/components.
@@ -37,3 +37,6 @@ npm run unit:watch
 npm install or yarn install
 Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
 For detailed explanation on how things work, checkout the guide and docs for vue-loader.
+
+If build fail: 
+npm install --save core-js@2
